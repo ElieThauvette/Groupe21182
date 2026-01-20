@@ -6,4 +6,4 @@
 ## Étudiants : 
 - Tommy Brunelle
 - Ahmed Ait Hammou
-- Noah PAYET
+- Elie Thauvette
