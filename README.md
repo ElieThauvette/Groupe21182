@@ -10,3 +10,4 @@
 - Jacob Chagnon
 - Cassey Martin
 - Médjoua
+- Rosemarie Dalton
